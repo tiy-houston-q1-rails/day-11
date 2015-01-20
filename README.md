@@ -45,3 +45,5 @@ pass the test suite, it works with any input that fits the
 specification.
 
 Have fun!
+
+Homework is taken from [exercism.io](http://exercism.io)
